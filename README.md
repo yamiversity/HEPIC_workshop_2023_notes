@@ -1,7 +1,7 @@
 # HEPIC_workshop_2023_notes
 
 ### Cadence Tutorial notes : 
-* [IC design materials from Virginia Tech] (https://www.mics.ece.vt.edu/ICDesign/Overview/index.html)
+* [IC design materials from Virginia Tech](https://www.mics.ece.vt.edu/ICDesign/Overview/index.html)
 * [Analog IC (PDK Tutorial_ ](https://www.mics.ece.vt.edu/ICDesign/Tutorials/AnalogIC/PDK_Material.html)
 
 ### notes:
