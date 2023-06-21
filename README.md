@@ -6,7 +6,13 @@
 
 
 ### Video lectures in Youtube
-* [CMOS Analog IC design](https://www.youtube.com/playlist?list=PL9CC669A6A8D4D488)  
+* [CMOS Analog IC design](https://www.youtube.com/playlist?list=PL9CC669A6A8D4D488)
+* [Basic of differential amplifier](https://www.youtube.com/watch?v=3_B6F6I5Yho&list=PL9CC669A6A8D4D488&index=15)
+* [Intro to differential amplifier](https://www.youtube.com/watch?v=ZIfFvI0PPJk&list=PL9CC669A6A8D4D488&index=16)
+* [Cascoded amplifier](https://www.youtube.com/watch?v=uFxXgDCLhGw)
+* [Folded cascode](https://www.youtube.com/watch?v=y31UMhCaTsY)
+* [Folded cascode](https://www.youtube.com/watch?v=S5d852-F6dg)
+* 
 
 
 ### Related Notes:
