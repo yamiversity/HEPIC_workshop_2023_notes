@@ -5,7 +5,7 @@
 * [Analog IC (PDK Tutorial)](https://www.mics.ece.vt.edu/ICDesign/Tutorials/AnalogIC/PDK_Material.html)
 
 
-### Video lectures
+### Video lectures in Youtube
 * [CMOS Analog IC design](https://www.youtube.com/playlist?list=PL9CC669A6A8D4D488)  
 
 
