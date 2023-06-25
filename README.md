@@ -18,3 +18,5 @@
 ### Related Notes:
 [Quantum Sensors for HEP and HEP
 technology for Quantum Science](https://indico.cern.ch/event/716539/contributions/3251242/attachments/1798184/2932123/Estrada_vienna2019.pdf)
+
+[Introducting to front-end Electronics for particle detectors](https://indico.cern.ch/event/1040996/contributions/4402468/attachments/2264425/3844448/Loddo_FEE_WorkshopRD51_2021.pdf)
